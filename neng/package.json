@@ -1,0 +1,21 @@
+{
+    "name": "Neng",
+    "displayName": "Neng",
+    "description": "Neng",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neng",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neng-color-theme.json"
+            }
+        ]
+    }
+}
