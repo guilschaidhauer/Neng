@@ -1,2 +1,2 @@
 # Neng
-Neng VS code color theme
+A simple VS Code dark theme
